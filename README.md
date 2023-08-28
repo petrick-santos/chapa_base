@@ -38,7 +38,7 @@ As informações de cada elemento estão separadas por frames, de modo a evitar 
 O frame de **memorial** exibirá os resultados parciais que fazem parte do dimensionamento as ligações, de modo a facilitar a verificação dos resultados. Sendo possível salva-los em .txt para futuras observações.
 
 ### - Licença
-Com o intuito de promover a colaboração entre a comunidade de projetos de estruturas de aço, o software tem a sua liceça pública, permitindo que a comunidade continue o desenvolvimento do programa futuramente.
+Com o intuito de promover a colaboração entre a comunidade de projetos de estruturas de aço, o software tem a sua licença pública, permitindo que a comunidade continue o desenvolvimento do programa futuramente.
 
 ### - Contato
 Em caso de dúvidas meu e-mail para contato é:
